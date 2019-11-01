@@ -68,16 +68,16 @@ li:nth-child(4) {
 }
 
 li:first-child .text {
-  background: red;
+  background: rgb(255, 126, 126);
 }
 li:nth-child(2) .text {
-  background: white;
+  background: rgb(218, 217, 217);
 }
 li:nth-child(3) .text {
-  background: blue;
+  background: rgb(120, 120, 255);
 }
 li:nth-child(4) .text {
-  background: orange;
+  background: rgb(255, 210, 126);
 }
 
 #pijl {
